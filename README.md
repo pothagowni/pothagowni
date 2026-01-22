@@ -35,5 +35,5 @@ I am a passionate DevOps Engineer with a strong foundation in **AWS Cloud Infras
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Mahesh-Pothagowni&show_icons=true&theme=radical" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pothagowni&show_icons=true&theme=radical" alt="Stats" />
 </p>
